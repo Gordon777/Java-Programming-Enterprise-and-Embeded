@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Java HW1 Building your own computer/src"/>
+	<classpathentry kind="src" path="Java HW2 Typing Tutor/src"/>
+	<classpathentry kind="src" path="Java HW3 Generic Collections/src"/>
+	<classpathentry kind="src" path="Java HW4 Bouncing Ball/src"/>
+	<classpathentry kind="output" path="Java HW1 Building your own computer/bin"/>
+</classpath>
